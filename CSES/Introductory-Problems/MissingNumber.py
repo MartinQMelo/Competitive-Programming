@@ -6,3 +6,5 @@ for i in range(n - 1):
     if nums[i] != i+1:
         print(i+1)
         break
+else:
+    print(n)
