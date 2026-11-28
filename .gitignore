@@ -1,0 +1,10 @@
+# ignora tudo
+*
+# mas mantém as pastas
+!*/
+# e os arquivos de código
+!*.c
+!*.cpp
+!*.py
+!*.h
+!.gitignore
